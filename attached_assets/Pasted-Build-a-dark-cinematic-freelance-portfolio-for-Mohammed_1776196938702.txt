@@ -1,0 +1,53 @@
+Build a dark cinematic freelance portfolio for Mohammed Imran — graphic designer, video editor & motion designer.
+
+DESIGN REFERENCE: Digital Flagship
+Replicate this exact design language:
+
+Near-black background (not pure black — deep charcoal like #0D0D0D)
+White/off-white body text for maximum contrast
+Amber/gold as the only accent colour (#F59E0B or warm gold) — used sparingly on 1–2 words per heading only, never decoratively
+Zero clutter. Type IS the visual.
+
+
+TYPOGRAPHY
+
+Hero/display: Bold condensed uppercase sans-serif — use Barlow Condensed or Bebas Neue at massive scale (15–20vw). Each word stacked as its own typographic unit, dominating the full viewport
+Section headings: Mixed case with italic or amber accent on select words (e.g. "Design that" moves) — not the full phrase, just the key word
+Body: Clean humanist sans-serif, sentence case, noticeably smaller/lighter than headings
+Nav labels: Small, tight letter-spacing, minimal
+
+
+SECTIONS (exact order)
+1. Navigation
+Sticky header. Name/wordmark left. "Contact" link far right. No other clutter. On mobile: hamburger → full-screen overlay menu.
+2. Hero
+Full viewport. Stacked massive condensed uppercase display type — treat "MOHAMMED" / "IMRAN" as two giant stacked words filling the screen. Below: a one-liner descriptor in smaller body text: "Graphic Design · Video Editing · Motion Design". One CTA button: "View Work" — outlined style, white border, fills amber on hover. Per-word entrance animation on page load (each word slides or fades in with stagger delay).
+3. Services Ticker
+Infinite horizontal auto-scroll marquee row. Word tokens looping: "Graphic Design" · "Brand Identity" · "Video Editing" · "Motion Graphics" · "Social Content" · "Visual Storytelling" — repeated 3× for seamless loop. Second row scrolling opposite direction. Text as typographic tokens, no icons.
+4. Work / Projects
+2–3 project cards. Each: full-bleed dark image/thumbnail, all-caps bold project name, one-line descriptor in small body text, hover reveals subtle amber overlay with "View →". Use cinematic dark placeholder visuals if no real images.
+5. Services
+Three equal sections: Graphic Design / Video Editing / Motion Design. Large section heading with one amber-accented word. Brief 1–2 sentence description per service. No icons — pure type and spacing.
+6. About
+2–3 punchy sentences. Dark background, large heading, minimal. Example tone: "I make things look like they matter. Available for freelance — everywhere." No photo needed.
+7. CTA Banner
+Full-width dark section. Large heading: "Let's build something." Single amber-styled email link: mdimran19181@gmail.com — large, clickable, no form.
+8. Footer
+Single line: name left, email right. Copyright. Dark. Done.
+
+ANIMATIONS
+
+Staggered per-word hero entrance on load
+Infinite marquee ticker (two rows, opposite directions)
+Scroll-triggered fade/slide-up on section entry
+Project card hover: subtle scale + amber overlay reveal
+Button hover: border fills amber left-to-right
+Everything slow and intentional — no bouncy or playful motion
+
+
+RULES
+
+No gradients. No illustrations. No stock photos in UI.
+Amber appears MAX 2–3 times on the entire page — only on accent words and the email CTA
+Whitespace is part of the design — don't fill gaps
+Mobile must feel as premium as desktop
